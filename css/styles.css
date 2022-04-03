@@ -100,6 +100,9 @@ body {
 }
 
 /* --------- наша команда section --------- */
+.section-team {
+  background-color: var(--team-bg-color);
+}
 .team-name {
   font-weight: 500;
   font-size: 16px;
