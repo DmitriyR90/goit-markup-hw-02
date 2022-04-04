@@ -43,6 +43,9 @@ body {
 .site-nav .link:focus {
   color: var(--text-focus-color);
 }
+.site-nav .link.current {
+  color: var(--text-focus-color);
+}
 
 .site-contact .link {
   font-weight: 500;
